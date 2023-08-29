@@ -57,7 +57,7 @@ Bienvenidos al repositorio del Curso de Programación Avanzada en Python. Este c
 ## 🛠 Herramientas Requeridas
 
 - Python 3.x
-- IDE de tu elección (Recomendamos PyCharm o Jupyter Notebook)
+- IDE de tu elección (Recomendamos VSCode o Jupyter Notebook)
 - Git y GitHub para control de versiones
 
 ## 📚 Recursos Adicionales
